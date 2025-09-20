@@ -19,7 +19,10 @@
   <a href="https://x.com/SWARAJK91997166" target="_blank">
     <img src="https://img.shields.io/badge/Follow-SWARAJK91997166-000000?style=for-the-badge&logo=x" alt="Twitter">
   </a>
-  </p>
+  <a href="https://www.instagram.com/swarajkumararyanraj/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
