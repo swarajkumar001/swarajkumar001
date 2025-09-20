@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/profile-banner.png" alt="Swaraj Kumar - GitHub Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Swaraj%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Swaraj Kumar - GitHub Banner">
 </p>
 
 # Hi, I'm Swaraj Kumar 👋
@@ -10,6 +10,9 @@
 
 ### 🤝 Connect with me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/swaraj-kumar-60891b201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.facebook.com/swarajkraryan.raj" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
