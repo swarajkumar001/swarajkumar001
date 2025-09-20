@@ -18,9 +18,15 @@
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,git,github,vscode,ubuntu&perline=6" />
+### 📊 My Stats:
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajkumar001&show_icons=true&theme=radical&rank_icon=github" />
+  </a>
+  <br><br>
+  <a href="https://leetcode.com/u/swaraj2416/">
+    <img align="center" src="https://leetcode.card.workers.dev/swaraj2416?theme=dark&font=baloo" />
   </a>
 </p>
 
