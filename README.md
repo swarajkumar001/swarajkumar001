@@ -26,7 +26,7 @@
   </a>
   <br><br>
   <a href="https://leetcode.com/u/swaraj2416/">
-    <img align="center" src="https://leetcode.card.workers.dev/swaraj2416?theme=dark&font=baloo" />
+    <img align="center" src="https://leetcard.jacoblin.cool/swaraj2416?theme=dark&ext=heatmap" />
   </a>
 </p>
 
