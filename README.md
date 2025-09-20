@@ -15,6 +15,15 @@
 - 📫 **How to reach me:** [swarajkumar25102002@gmail.com](mailto:swarajkumar25102002@gmail.com)
 
 ---
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.facebook.com/swarajkraryan.raj" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="swarajkraryan.raj"/>
+  </a>
+  <a href="https://x.com/SWARAJK91997166" target="blank">
+    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="SWARAJK91997166"/>
+  </a>
+  </p>
 
 ### 💻 Tech Stack
 
