@@ -49,16 +49,25 @@
 
 ### 📊 My Stats:
 
+
 <p align="center">
+  <!-- 🔥 Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=swarajkumar001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajkumar001&show_icons=true&theme=radical&rank_icon=github" />
-  </a>
-  <br><br>
-  <a href="https://leetcode.com/u/swaraj2416/">
-    <img align="center" src="https://leetcard.jacoblin.cool/swaraj2416?theme=dark&ext=heatmap" />
+    <img src="https://streak-stats.demolab.com/?user=swarajkumar001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
+
+<p align="center">
+  <!-- 💻 GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=swarajkumar001&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- 🏆 LeetCode Stats -->
+  <a href="https://leetcode.com/u/swaraj2416/">
+    <img src="https://leetcard.jacoblin.cool/swaraj2416?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
