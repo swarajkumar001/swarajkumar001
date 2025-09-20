@@ -14,10 +14,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://x.com/SWARAJK91997166" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://x.com/SWARAJK91997166" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SWARAJK91997166?style=social" alt="Twitter Follow">
+    <img src="https://img.shields.io/badge/Follow-SWARAJK91997166-000000?style=for-the-badge&logo=x" alt="Twitter">
   </a>
   </p>
 
@@ -47,6 +44,10 @@
 ### 📊 My Stats:
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://streak-stats.demolab.com/?user=swarajkumar001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+  <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajkumar001&show_icons=true&theme=radical&rank_icon=github" />
   </a>
