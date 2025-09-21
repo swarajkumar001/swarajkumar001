@@ -7,6 +7,9 @@
 ### An aspiring C++ and Web Developer driven by curiosity to blend technical expertise with real-world impact.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swarajkumar001&style=flat&color=blueviolet" alt="Profile views" />
+</p>
 
 ### 🤝 Connect with me:
 <p align="center">
@@ -44,6 +47,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,git,github,vscode,ubuntu,python,numpy,matplotlib,seaborn&perline=8" />
   </a>
 </p>
+
+
 
 ---
 
